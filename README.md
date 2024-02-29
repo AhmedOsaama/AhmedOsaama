@@ -1,5 +1,7 @@
 - Hi, I’m Ahmed Osama Mohammed
-- I'm interested in front end development and building mobile apps
+- I'm interested in mobile development and building mobile apps using Flutter
+- Currently I am learning C# and ASP.NET for backend development
+- Also I am learning HTML, CSS and Javascript for front end development
 - Email: ahmedosama49@gmail.com
 - Upwork: https://www.upwork.com/freelancers/~01b940ecfc5efd1c5f
 
